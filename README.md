@@ -51,4 +51,5 @@ streamlit run app.py
 
 ## 📸 Demo Output
 
-![Alt text](output.png)
+<img width="1919" height="968" alt="image" src="https://github.com/user-attachments/assets/b088e62b-10a5-442a-b0e3-49519db8f275" />
+
